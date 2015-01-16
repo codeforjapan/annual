@@ -2812,7 +2812,7 @@ iframe.twitter-share-button {
 
 /* line 257, ../sass/base.scss */
 .navbar .brand {
-  max-width: 60px;
+  max-width: 90px;
 }
 
 /* line 261, ../sass/base.scss */
@@ -3027,7 +3027,7 @@ input[type="text"] {
   padding-left: 400px;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
-                               /* Firefox 
+                               /* Firefox
 -webkit-box-sizing:border-box; /* Safari */
 }
 
